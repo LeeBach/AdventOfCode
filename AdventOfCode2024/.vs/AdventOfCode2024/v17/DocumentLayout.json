@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Magnu\\Documents\\GitHub\\AOC2024\\AdventOfCode2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D03CFAC-456E-4275-8467-9A1461AF4DD6}|AdventOfCode2024.csproj|c:\\users\\magnu\\documents\\github\\aoc2024\\adventofcode2024\\days\\day02partb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D03CFAC-456E-4275-8467-9A1461AF4DD6}|AdventOfCode2024.csproj|solutionrelative:days\\day02partb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D03CFAC-456E-4275-8467-9A1461AF4DD6}|AdventOfCode2024.csproj|c:\\users\\magnu\\documents\\github\\aoc2024\\adventofcode2024\\inputs\\day02.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D03CFAC-456E-4275-8467-9A1461AF4DD6}|AdventOfCode2024.csproj|solutionrelative:inputs\\day02.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 26,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Day02.txt",
+              "DocumentMoniker": "C:\\Users\\Magnu\\Documents\\GitHub\\AOC2024\\AdventOfCode2024\\Inputs\\Day02.txt",
+              "RelativeDocumentMoniker": "Inputs\\Day02.txt",
+              "ToolTip": "C:\\Users\\Magnu\\Documents\\GitHub\\AOC2024\\AdventOfCode2024\\Inputs\\Day02.txt",
+              "RelativeToolTip": "Inputs\\Day02.txt",
+              "ViewState": "AgIAAJEBAAAAAAAAAAAUwKcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-19T22:15:51.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Day02PartB.cs",
+              "DocumentMoniker": "C:\\Users\\Magnu\\Documents\\GitHub\\AOC2024\\AdventOfCode2024\\Days\\Day02PartB.cs",
+              "RelativeDocumentMoniker": "Days\\Day02PartB.cs",
+              "ToolTip": "C:\\Users\\Magnu\\Documents\\GitHub\\AOC2024\\AdventOfCode2024\\Days\\Day02PartB.cs",
+              "RelativeToolTip": "Days\\Day02PartB.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:32:55.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
